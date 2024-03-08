@@ -45,7 +45,7 @@ li {
     transition: all 0.35s ease-in-out;
     box-shadow: 0 0 35px 0 rgba(49, 57, 66, 0.5);
     z-index: 1111;
-    color: aquamarine;
+    color: turquoisee;
 }
 
 /* Sidebar collapse */
@@ -68,10 +68,10 @@ li {
 }
 
 .sidebar-logo a {
-    color: #4895e3;
+    color: turquoise;
     font-size: 2rem;
     font-weight: 600;
-    text-shadow: 2px 2px 5px #95b5d6;
+    text-shadow: 2px 2px 5px turquoise;
 }
 
 .sidebar-nav {
@@ -86,7 +86,7 @@ li {
 
 a.sidebar-link {
     padding: .625rem 1.625rem;
-    color: #8ebfef;
+    color: turquoise;
     position: relative;
     display: block;
     font-size: 1rem;
